@@ -15,11 +15,4 @@ A responsive and dynamic online bookstore built using **HTML, CSS, JavaScript, P
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
 - **Database**: MySQL
-- **Server**: Apache (XAMPP/LAMP recommended)
 
-## 🛠️ Setup Instructions
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/AdvaitSing/Shelf--Online-Book-Store.git
